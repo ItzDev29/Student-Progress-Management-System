@@ -15,7 +15,7 @@ project-root/
 │   ├── utils/               # Utility functions (e.g., email scheduler)
 │   └── server.js            # Entry point for backend server
 │
-├── Frontend/                # React frontend (Vite/CRA)
+├── Frontend/                # React frontend (CRA)
 │   ├── components/          # Reusable UI components
 │   ├── pages/               # Page-level views (Home, StudentProfile)
 │   ├── App.jsx              # Main app component with routing and theme
